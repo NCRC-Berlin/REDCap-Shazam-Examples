@@ -5,9 +5,10 @@ PROJEKT BESCHREIBUNG:
 In diesem Repository werden Shazam Tabellen Beispiele zur Verfügung gestellt.
 
 PROJEKT INHALT
-- Example 1: einfache Tabelle Beispiel (ohne Icons)
-- Example 2: Medikamententabelle (mit Icons)
-- Example 2 Therapietabelle (mit Icons)
+- Example 1: einfache Shazam-Tabelle: Felder in einer Reihe (ohne Icons)
+- Example 2: einfache Tabelle mit mehren Reihen und Spalten (ohne Icons)
+- Example 3: Medikamententabelle (mit Icons)
+- Example 4: Therapietabelle (mit Icons)
 - usw
 
 HOW TO USE IT:
